@@ -1,6 +1,7 @@
 # project1
 <h> HELLO WORLD</h>
 <html>
+</head>
 <body>
 <h1>Types of sports</h2>
 <br>
